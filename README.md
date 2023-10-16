@@ -1,8 +1,5 @@
-arduino-m190
+arduino-m160
 ============
 
-Arduino driver for Epson M-190 Printer Mechanism
-
-Demo available here.
-
-http://www.youtube.com/watch?v=yWz-9c-KAus&feature=youtu.be
+Arduino driver for Epson M-160 Printer Mechanism
+This is the printer in the Epson HX-20 laptop
